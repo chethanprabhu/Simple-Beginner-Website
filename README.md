@@ -1,5 +1,5 @@
 # Simple-Beginner-Website
-Just a simple Website
+Just a simple Websites
 Programming TOOLS Used:
 1)HTML
 2)CSS
