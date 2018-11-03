@@ -1,2 +1,2 @@
-Simple Website Using HTML,CSS,BOOTSTRAP AND JAVASCRIPT
+Simple Website Using HTML,CSS,BOOTSTRAP AND JAVASCRIPT                                                                                      
 STATUS : INCOMPLETE
